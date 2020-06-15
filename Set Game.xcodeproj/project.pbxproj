@@ -56,13 +56,10 @@
 		92F7336624973CF600026B59 /* Set Game */ = {
 			isa = PBXGroup;
 			children = (
-				92F7336724973CF600026B59 /* AppDelegate.swift */,
-				92F7336924973CF600026B59 /* SceneDelegate.swift */,
 				92F7336B24973CF600026B59 /* ContentView.swift */,
-				92F7336D24973CF700026B59 /* Assets.xcassets */,
-				92F7337224973CF700026B59 /* LaunchScreen.storyboard */,
-				92F7337524973CF700026B59 /* Info.plist */,
+				92F7337B24973D9200026B59 /* Supporting Files */,
 				92F7336F24973CF700026B59 /* Preview Content */,
+				92F7337524973CF700026B59 /* Info.plist */,
 			);
 			path = "Set Game";
 			sourceTree = "<group>";
@@ -73,6 +70,17 @@
 				92F7337024973CF700026B59 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		92F7337B24973D9200026B59 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				92F7336724973CF600026B59 /* AppDelegate.swift */,
+				92F7336924973CF600026B59 /* SceneDelegate.swift */,
+				92F7336D24973CF700026B59 /* Assets.xcassets */,
+				92F7337224973CF700026B59 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
